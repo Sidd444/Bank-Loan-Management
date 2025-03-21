@@ -1,6 +1,6 @@
 # Bank Loan Management System
 
-**[Live Demo](https://agetware-bank-loan-management.netlify.app/)**
+# [Live Demo](https://agetware-bank-loan-management.netlify.app/)
 
 ## Overview
 A simple bank loan management system that allows lending, payments, and loan tracking using RESTful APIs. Built using the MERN stack and deployed on Render (backend) and Netlify (frontend).
